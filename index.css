@@ -1,0 +1,13 @@
+.container{
+    background-color:cornsilk;
+    border: 50px;
+    margin: 100px;
+    padding: 10px;
+}
+
+.a{
+    text-align: right;
+}
+.c{
+    text-align: right;
+}
